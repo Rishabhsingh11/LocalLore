@@ -7,16 +7,6 @@ This project is a speech-to-text pipeline that can transcribe audio files and ge
 ## Architechture
 ![mp3_transcript_workflow](https://user-images.githubusercontent.com/90572559/230643567-360520b8-b467-4367-ac05-d7d4bc65d6ed.png)
 
-
-## Team Information and Contribution 
-
-Name | NUID | Contribution 
---- | --- | --- |
-Karan Agrawal | 001090008 | 25% 
-Rishabh Singh | 002743830 | 25% 
-Lokeshwaran Venugopal Balamurugan | 002990533 | 25% 
-Sivaranjani S | 002742197 | 25% 
-
 ## Link to Live Applications 
 - Streamlit Application - http://34.138.127.169:8051
 - Codelabs - https://codelabs-preview.appspot.com/?file_id=1RQSZ7LmsBowZf_GSkJaX4EfiLUobxXmViHWxYrZ9loU#0
@@ -85,5 +75,4 @@ To run this project, you will need:
 - GOOGLE_APPLICATION_CREDENTIALS= <GOOGLE_APPLICATION_CREDENTIALS.json> <- should be given in double quotes ("")
 
 
-## ATTESTATION:
-WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK.
+
